@@ -1,4 +1,4 @@
-//Calculate and display the total price.
+//Calculate and display the subtotal(cost) and total price.
 var updateCost = function() {
     var costArr = [];
     $('tbody tr').each(function (i, item) {
